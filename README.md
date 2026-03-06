@@ -14,7 +14,7 @@ FastAPI application for traffic accident risk prediction.
 ```bash
 cd traffic-accident-analyser
 pip install poetry
-python -m venv venv
+py -3.12 -m venv venv
 venv\Scripts\activate
 
 poetry lock
